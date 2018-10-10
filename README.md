@@ -1,6 +1,6 @@
-# time-server
+# TIME protocol clients & servers
 
-Simple python implementation of TIME protocol clients and servers ([RFC868](https://tools.ietf.org/html/rfc868)).
+Simple Python implementation of TIME protocol clients and servers as described in ([RFC868](https://tools.ietf.org/html/rfc868)).
 
 # Usage
 
